@@ -34,7 +34,7 @@ Make sure you have the following installed before getting started:
 
 ## Usage
 
-Once the server is up and running, you can interact with the RESTful API using tools like Postman or curl. Refer to the API documentation generated with Swagger for more details on available endpoints.
+Once the server is up and running, you can interact with the RESTful API using tools like Postman or curl.
 
 **Note:** Ensure your SQL Server database is running, and the connection configuration is correct.
 
@@ -80,7 +80,7 @@ Asegúrate de tener instalado lo siguiente antes de comenzar:
 
 ## Uso
 
-Una vez que el servidor esté en funcionamiento, puedes interactuar con la API RESTful utilizando herramientas como Postman o curl. Consulta la documentación de la API generada con Swagger para obtener más detalles sobre los puntos de enlace disponibles.
+Una vez que el servidor esté en funcionamiento, puedes interactuar con la API RESTful utilizando herramientas como Postman o curl.
 
 **Nota:** Asegúrate de que tu base de datos SQL Server esté en funcionamiento y que la configuración de conexión sea correcta.
 
